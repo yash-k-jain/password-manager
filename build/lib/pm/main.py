@@ -120,7 +120,7 @@ def main():
                 continue
 
             password_dest_name = input(
-                "Enter the name of which password you want to save: "
+                "Enter the platform name whose password you want to save(like Google, Gmail, Amazon, etc.): "
             )
             password_input = input("Enter the password to save: ")
 
